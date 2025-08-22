@@ -6,7 +6,7 @@
 
 本リポジトリでは、以下の2つの主要なSDEアプローチを実装しています：
 
-- **VE-SDE (Variance Exploding SDE)**: 分散爆発型確率微分方程式
+- **VE-SDE (Variance Exploding SDE)**: 分散発散型確率微分方程式
 - **VP-SDE (Variance Preserving SDE)**: 分散保存型確率微分方程式
 
 これらのアプローチは、ノイズから高品質な画像やデータを生成するための最先端の生成モデル技術です。
