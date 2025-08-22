@@ -14,7 +14,7 @@
 ## Notebooks
 
 ### VE-SDE Example
-分散爆発型SDEの実装例とデモンストレーション
+分散発散型SDEの実装例とデモンストレーション
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UedaKenji/FI6_inverse_diffusion_model/blob/main/VE-SDE_example.ipynb)
 
@@ -52,7 +52,3 @@ jupyter notebook
 - Chung, H., Kim, J., Mccann, M. T., Klasky, M. L., & Ye, J. C. (2023). Diffusion Posterior Sampling for General Noisy Inverse Problems. *International Conference on Learning Representations (ICLR)*. Available at: https://arxiv.org/abs/2209.14687
 - Daras, G., Chung, H., Lai, C.-H., Mitsufuji, Y., Ye, J. C., Milanfar, P., Dimakis, A. G., & Delbracio, M. (2024). A Survey on Diffusion Models for Inverse Problems. *arXiv preprint arXiv:2410.00083*. Available at: https://arxiv.org/abs/2410.00083
 
-
-## ライセンス
-
-このプロジェクトはMITライセンスの下で公開されています。
